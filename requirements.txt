@@ -1,0 +1,4 @@
+DateTime==4.3
+openpyxl==3.0.7
+pandas-datareader==0.9.0
+tqdm==4.60.0
